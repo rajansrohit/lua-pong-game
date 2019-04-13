@@ -1,2 +1,2 @@
 # Lua-Pong-Game
-A pong game emulating the NES. Written in Lua andran in Love2D game engine
+A pong game emulating the NES. Written in Lua and ran in Love2D game engine
